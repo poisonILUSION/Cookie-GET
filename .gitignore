@@ -1,0 +1,44 @@
+# Cookies e dados sensíveis
+data/roblox_cookies.json
+data/*.json
+
+# Arquivos de log
+logs/
+*.log
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+*.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações locais
+config/discord_token.py
+.env
+.env.local
+
+# Diretórios temporários
+tmp/
+temp/
+*.tmp
+
+# Node modules (se usado com frontend)
+node_modules/
