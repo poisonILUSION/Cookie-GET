@@ -2,6 +2,7 @@
 
 import logging
 import json
+import pyperclip
 from pathlib import Path
 from datetime import datetime
 from typing import Optional, Dict
@@ -127,3 +128,45 @@ def print_error(message: str):
 def print_info(message: str):
     """Imprime mensagem informativa"""
     print(f"\n💡 {message}\n")
+
+
+def copy_to_clipboard(text: str) -> bool:
+    """Copia texto para clipboard"""
+    try:
+        pyperclip.copy(text)
+        logger.info("✅ Copiado para clipboard")
+        return True
+    except Exception as e:
+        logger.warning(f"⚠️ Erro ao copiar para clipboard: {e}")
+        return False
+
+
+def paste_from_clipboard() -> Optional[str]:
+    """Cola texto do clipboard"""
+    try:
+        text = pyperclip.paste()
+        return text if text else None
+    except Exception as e:
+        logger.warning(f"⚠️ Erro ao colar do clipboard: {e}")
+        return None
+
+
+def display_ascii_banner():
+    """Exibe banner ASCII do GROOBIE"""
+    banner = """
+    ██████╗ ██████╗  ██████╗  ██████╗ ██████╗ ██╗███████╗
+    ██╔════╝ ██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗██║██╔════╝
+    ██║  ███╗██████╔╝██║   ██║██║   ██║██████╔╝██║█████╗
+    ██║   ██║██╔══██╗██║   ██║██║   ██║██╔══██╗██║██╔══╝
+    ╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝██████╔╝██║███████╗
+     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚══════╝
+    
+                        made by: poison
+    """
+    print(banner)
+
+
+def clear_screen():
+    """Limpa a tela do console"""
+    import os
+    os.system('cls' if os.name == 'nt' else 'clear')

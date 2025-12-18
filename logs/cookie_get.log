@@ -1,0 +1,578 @@
+[2025-11-15 14:31:24] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-15 14:31:24] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-15 14:31:28] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/9182403249/profile
+[2025-11-15 14:31:28] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/9182403249/profile
+[2025-11-15 14:31:38] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9182403249
+[2025-11-15 14:31:38] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-15 14:31:38] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-15 14:31:38] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-15 14:31:38] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-15 14:31:38] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-15 14:31:38] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-15 14:31:38] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-15 14:31:38] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-15 14:31:38] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9182403249
+[2025-11-15 14:31:38] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-15 14:31:39] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-15 14:31:40] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-16 15:17:56] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-16 15:17:56] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-16 15:17:57] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/9446736961/profile
+[2025-11-16 15:17:57] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/9446736961/profile
+[2025-11-16 15:18:08] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9446736961
+[2025-11-16 15:18:08] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-16 15:18:08] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-16 15:18:08] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-16 15:18:08] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-16 15:18:08] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-16 15:18:08] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-16 15:18:08] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-16 15:18:08] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-16 15:18:08] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9446736961
+[2025-11-16 15:18:08] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-16 15:18:08] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-16 15:18:09] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-16 15:50:51] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-16 15:50:51] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-16 15:50:56] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/9446736961/profile
+[2025-11-16 15:50:56] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/9446736961/profile
+[2025-11-16 15:51:06] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9446736961
+[2025-11-16 15:51:06] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-16 15:51:06] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-16 15:51:06] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-16 15:51:06] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-16 15:51:06] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-16 15:51:06] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-16 15:51:06] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-16 15:51:06] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-16 15:51:06] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9446736961
+[2025-11-16 15:51:06] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-16 15:51:06] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-16 15:51:07] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-16 17:49:02] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-16 17:49:02] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-16 17:49:04] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/users/3875068820/profile
+[2025-11-16 17:49:04] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/users/3875068820/profile
+[2025-11-16 17:49:14] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 3875068820
+[2025-11-16 17:49:14] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-16 17:49:14] INFO - core.browser: ✅ 16 cookie(s) extraído(s) do Firefox
+[2025-11-16 17:49:14] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-16 17:49:14] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-16 17:49:14] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-16 17:49:14] INFO - core.browser: ✅ 16 cookie(s) extraído(s) do Firefox
+[2025-11-16 17:49:14] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-16 17:49:14] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-16 17:49:14] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 3875068820
+[2025-11-16 17:49:14] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-16 17:49:14] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-16 17:49:16] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-16 17:50:36] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-16 17:50:36] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-16 17:51:03] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/6056059531/profile
+[2025-11-16 17:51:03] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/6056059531/profile
+[2025-11-16 17:51:13] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 6056059531
+[2025-11-16 17:51:13] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-16 17:51:13] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-16 17:51:13] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-16 17:51:13] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-16 17:51:13] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-16 17:51:13] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-16 17:51:13] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-16 17:51:13] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-16 17:51:13] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 6056059531
+[2025-11-16 17:51:13] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-16 17:51:13] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-16 17:51:14] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-18 10:35:59] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-18 10:35:59] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-18 10:36:03] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/6222001942/profile
+[2025-11-18 10:36:03] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/6222001942/profile
+[2025-11-18 10:36:13] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 6222001942
+[2025-11-18 10:36:13] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-18 10:36:13] INFO - core.browser: ✅ 16 cookie(s) extraído(s) do Firefox
+[2025-11-18 10:36:13] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-18 10:36:13] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-18 10:36:13] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-18 10:36:13] INFO - core.browser: ✅ 16 cookie(s) extraído(s) do Firefox
+[2025-11-18 10:36:13] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-18 10:36:13] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-18 10:36:13] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 6222001942
+[2025-11-18 10:36:13] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-18 10:36:13] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-18 10:36:14] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-21 19:43:57] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-21 19:43:57] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-21 19:44:01] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/9900241061/profile
+[2025-11-21 19:44:01] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/9900241061/profile
+[2025-11-21 19:44:11] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9900241061
+[2025-11-21 19:44:11] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-21 19:44:11] INFO - core.browser: ✅ 19 cookie(s) extraído(s) do Firefox
+[2025-11-21 19:44:11] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-21 19:44:11] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-21 19:44:11] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-21 19:44:11] INFO - core.browser: ✅ 19 cookie(s) extraído(s) do Firefox
+[2025-11-21 19:44:11] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-21 19:44:11] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-21 19:44:11] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9900241061
+[2025-11-21 19:44:11] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-21 19:44:11] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-21 19:44:12] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-22 13:40:54] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-22 13:40:54] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-22 13:41:04] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/users/7319899906/profile
+[2025-11-22 13:41:04] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/users/7319899906/profile
+[2025-11-22 13:41:14] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 7319899906
+[2025-11-22 13:41:14] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-22 13:41:14] INFO - core.browser: ✅ 19 cookie(s) extraído(s) do Firefox
+[2025-11-22 13:41:14] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-22 13:41:14] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-22 13:41:14] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-22 13:41:14] INFO - core.browser: ✅ 19 cookie(s) extraído(s) do Firefox
+[2025-11-22 13:41:14] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-22 13:41:14] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-22 13:41:14] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 7319899906
+[2025-11-22 13:41:14] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-22 13:41:14] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-22 13:41:15] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-23 12:55:41] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-23 12:55:41] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-23 12:55:47] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/6222001942/profile
+[2025-11-23 12:55:47] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/6222001942/profile
+[2025-11-23 12:55:57] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 6222001942
+[2025-11-23 12:55:57] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-23 12:55:58] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-23 12:55:58] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-23 12:55:58] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-23 12:55:58] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-23 12:55:58] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-23 12:55:58] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-23 12:55:58] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-23 12:55:58] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 6222001942
+[2025-11-23 12:55:58] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-23 12:55:58] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-23 12:55:59] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-23 14:17:42] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-23 14:17:42] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-23 14:17:46] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/7243495861/profile
+[2025-11-23 14:17:46] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/7243495861/profile
+[2025-11-23 14:17:56] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 7243495861
+[2025-11-23 14:17:56] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-23 14:17:56] INFO - core.browser: ✅ 19 cookie(s) extraído(s) do Firefox
+[2025-11-23 14:17:56] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-23 14:17:56] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-23 14:17:56] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-23 14:17:56] INFO - core.browser: ✅ 19 cookie(s) extraído(s) do Firefox
+[2025-11-23 14:17:56] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-23 14:17:56] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-23 14:17:56] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 7243495861
+[2025-11-23 14:17:56] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-23 14:17:56] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-23 14:17:57] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-24 11:14:04] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-24 11:14:04] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-24 11:14:08] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/9900457991/profile
+[2025-11-24 11:14:08] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/9900457991/profile
+[2025-11-24 11:14:19] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9900457991
+[2025-11-24 11:14:19] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-24 11:14:19] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-24 11:14:19] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-24 11:14:19] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-24 11:14:19] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-24 11:14:19] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-24 11:14:19] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-24 11:14:19] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-24 11:14:19] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9900457991
+[2025-11-24 11:14:19] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-24 11:14:19] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-24 11:14:20] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-24 17:52:30] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-24 17:52:30] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-24 17:52:35] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/9757458782/profile
+[2025-11-24 17:52:35] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/9757458782/profile
+[2025-11-24 17:52:45] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9757458782
+[2025-11-24 17:52:45] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-24 17:52:45] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-24 17:52:45] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-24 17:52:45] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-24 17:52:45] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-24 17:52:45] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-24 17:52:45] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-24 17:52:45] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-24 17:52:45] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9757458782
+[2025-11-24 17:52:45] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-24 17:52:45] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-24 17:52:46] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-24 18:14:06] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-24 18:14:06] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-24 18:14:13] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/9757458782/profile
+[2025-11-24 18:14:13] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/9757458782/profile
+[2025-11-24 18:14:23] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9757458782
+[2025-11-24 18:14:23] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-24 18:14:23] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-24 18:14:23] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-24 18:14:23] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-24 18:14:23] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-24 18:14:23] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-24 18:14:23] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-24 18:14:23] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-24 18:14:23] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9757458782
+[2025-11-24 18:14:23] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-24 18:14:23] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-24 18:14:25] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-28 11:04:30] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-28 11:04:30] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-28 11:04:44] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/7114425071/profile
+[2025-11-28 11:04:44] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/7114425071/profile
+[2025-11-28 11:04:54] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 7114425071
+[2025-11-28 11:04:54] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-28 11:04:54] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-28 11:04:54] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-28 11:04:54] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-28 11:04:54] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-28 11:04:54] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-28 11:04:54] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-28 11:04:54] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-28 11:04:54] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 7114425071
+[2025-11-28 11:04:54] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-28 11:04:55] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-28 11:04:56] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-28 11:50:06] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-28 11:50:06] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-28 11:50:10] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/1834755082/profile
+[2025-11-28 11:50:10] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/1834755082/profile
+[2025-11-28 11:50:20] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 1834755082
+[2025-11-28 11:50:20] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-28 11:50:20] INFO - core.browser: ✅ 18 cookie(s) extraído(s) do Firefox
+[2025-11-28 11:50:20] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-28 11:50:20] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-28 11:50:20] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-28 11:50:20] INFO - core.browser: ✅ 18 cookie(s) extraído(s) do Firefox
+[2025-11-28 11:50:20] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-28 11:50:20] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-28 11:50:20] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 1834755082
+[2025-11-28 11:50:20] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-28 11:50:20] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-28 11:50:22] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-11-28 19:50:24] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-28 19:50:24] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-28 19:50:28] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/10041572739/profile
+[2025-11-28 19:50:28] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/10041572739/profile
+[2025-11-28 19:50:38] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10041572739
+[2025-11-28 19:50:38] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-28 19:50:38] INFO - core.browser: ✅ 16 cookie(s) extraído(s) do Firefox
+[2025-11-28 19:50:38] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-28 19:50:38] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-28 19:50:38] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-28 19:50:38] INFO - core.browser: ✅ 16 cookie(s) extraído(s) do Firefox
+[2025-11-28 19:50:38] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-28 19:50:38] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-28 19:50:38] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10041572739
+[2025-11-28 19:50:38] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-28 19:50:38] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-29 10:11:56] INFO - core.browser: ✅ Firefox já está em execução
+[2025-11-29 10:11:56] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-11-29 10:11:59] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/users/8823923580/profile
+[2025-11-29 10:11:59] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/users/8823923580/profile
+[2025-11-29 10:12:09] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 8823923580
+[2025-11-29 10:12:09] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-29 10:12:09] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-29 10:12:09] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-29 10:12:09] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-29 10:12:09] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-11-29 10:12:09] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-11-29 10:12:09] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-11-29 10:12:09] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-11-29 10:12:09] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 8823923580
+[2025-11-29 10:12:09] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-11-29 10:12:10] INFO - core.browser: 📑 Fechando aba atual...
+[2025-11-29 10:12:11] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-02 10:22:48] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-02 10:22:48] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-02 10:22:55] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/10064407424/profile
+[2025-12-02 10:22:55] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/10064407424/profile
+[2025-12-02 10:23:05] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10064407424
+[2025-12-02 10:23:05] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-02 10:23:05] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-12-02 10:23:05] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-02 10:23:05] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-02 10:23:05] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-02 10:23:05] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-12-02 10:23:05] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-02 10:23:05] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-02 10:23:05] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10064407424
+[2025-12-02 10:23:05] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-02 10:23:06] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-02 10:23:07] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-03 11:27:31] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-03 11:27:31] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-03 11:27:33] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/10068826227/profile
+[2025-12-03 11:27:33] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/10068826227/profile
+[2025-12-03 11:27:43] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10068826227
+[2025-12-03 11:27:43] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-03 11:27:43] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-12-03 11:27:43] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-03 11:27:43] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-03 11:27:43] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-03 11:27:43] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-12-03 11:27:43] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-03 11:27:43] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-03 11:27:43] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10068826227
+[2025-12-03 11:27:43] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-03 11:27:43] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-03 11:27:44] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-06 18:40:44] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-06 18:40:44] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-06 18:40:45] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/7805293361/profile
+[2025-12-06 18:40:45] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/7805293361/profile
+[2025-12-06 18:40:55] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 7805293361
+[2025-12-06 18:40:55] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-06 18:40:55] INFO - core.browser: ✅ 18 cookie(s) extraído(s) do Firefox
+[2025-12-06 18:40:55] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-06 18:40:55] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-06 18:40:55] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-06 18:40:55] INFO - core.browser: ✅ 18 cookie(s) extraído(s) do Firefox
+[2025-12-06 18:40:55] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-06 18:40:55] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-06 18:40:55] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 7805293361
+[2025-12-06 18:40:55] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-06 18:40:56] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-06 18:40:57] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-06 18:42:06] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-06 18:42:06] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-06 18:42:39] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/users/4575041751/profile
+[2025-12-06 18:42:39] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/users/4575041751/profile
+[2025-12-06 18:42:49] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 4575041751
+[2025-12-06 18:42:49] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-06 18:42:49] INFO - core.browser: ✅ 18 cookie(s) extraído(s) do Firefox
+[2025-12-06 18:42:49] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-06 18:42:49] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-06 18:42:49] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-06 18:42:49] INFO - core.browser: ✅ 18 cookie(s) extraído(s) do Firefox
+[2025-12-06 18:42:49] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-06 18:42:49] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-06 18:42:49] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 4575041751
+[2025-12-06 18:42:49] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-06 18:42:49] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-06 18:42:50] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-07 15:20:42] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-07 15:20:42] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-07 15:20:46] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/10098884579/profile
+[2025-12-07 15:20:46] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/10098884579/profile
+[2025-12-07 15:20:56] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10098884579
+[2025-12-07 15:20:56] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-07 15:20:56] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-12-07 15:20:56] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-07 15:20:56] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-07 15:20:56] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-07 15:20:56] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-12-07 15:20:56] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-07 15:20:56] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-07 15:20:56] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10098884579
+[2025-12-07 15:20:56] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-07 15:20:56] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-07 15:20:57] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-07 18:48:18] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-07 18:48:18] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-07 18:48:21] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-07 18:48:21] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-07 18:48:31] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-07 18:48:31] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-07 18:48:31] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-12-07 18:48:31] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-07 18:48:31] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-07 18:48:31] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-07 18:48:31] INFO - core.browser: ✅ 17 cookie(s) extraído(s) do Firefox
+[2025-12-07 18:48:31] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-07 18:48:31] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-07 18:48:31] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-07 18:48:31] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-07 18:48:31] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-07 18:48:32] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-09 12:37:50] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-09 12:37:50] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-09 12:37:53] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-09 12:37:53] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-09 12:38:03] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-09 12:38:03] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-09 12:38:03] INFO - core.browser: ✅ 16 cookie(s) extraído(s) do Firefox
+[2025-12-09 12:38:03] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-09 12:38:03] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-09 12:38:03] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-09 12:38:03] INFO - core.browser: ✅ 16 cookie(s) extraído(s) do Firefox
+[2025-12-09 12:38:03] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-09 12:38:03] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-09 12:38:03] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-09 12:38:03] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-09 12:38:03] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-09 12:38:05] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-11 18:23:44] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-11 18:23:44] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-11 18:23:46] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-11 18:23:46] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-11 18:23:57] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-11 18:23:57] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-11 18:23:57] INFO - core.browser: ✅ 13 cookie(s) extraído(s) do Firefox
+[2025-12-11 18:23:57] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-11 18:23:57] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-11 18:23:57] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-11 18:23:57] INFO - core.browser: ✅ 13 cookie(s) extraído(s) do Firefox
+[2025-12-11 18:23:57] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-11 18:23:57] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-11 18:23:57] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-11 18:23:57] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-11 18:23:57] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-11 18:23:58] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-13 20:01:53] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-13 20:01:53] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-13 20:01:56] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-13 20:01:56] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-13 20:02:06] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-13 20:02:06] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-13 20:02:06] INFO - core.browser: ✅ 12 cookie(s) extraído(s) do Firefox
+[2025-12-13 20:02:06] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-13 20:02:06] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-13 20:02:06] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-13 20:02:06] INFO - core.browser: ✅ 12 cookie(s) extraído(s) do Firefox
+[2025-12-13 20:02:06] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-13 20:02:06] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-13 20:02:06] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-13 20:02:06] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-13 20:02:06] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-13 20:02:07] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-13 20:24:57] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-13 20:24:57] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-13 20:25:02] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-13 20:25:02] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-13 20:25:12] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-13 20:25:12] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-13 20:25:12] INFO - core.browser: ✅ 12 cookie(s) extraído(s) do Firefox
+[2025-12-13 20:25:12] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-13 20:25:12] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-13 20:25:12] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-13 20:25:12] INFO - core.browser: ✅ 12 cookie(s) extraído(s) do Firefox
+[2025-12-13 20:25:12] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-13 20:25:12] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-13 20:25:12] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-13 20:25:12] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-13 20:25:13] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-13 20:25:14] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-13 20:28:34] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-13 20:28:34] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-13 20:28:37] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-13 20:28:37] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/724335463/profile
+[2025-12-13 20:28:47] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-13 20:28:47] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-13 20:28:47] INFO - core.browser: ✅ 12 cookie(s) extraído(s) do Firefox
+[2025-12-13 20:28:47] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-13 20:28:47] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-13 20:28:47] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-13 20:28:47] INFO - core.browser: ✅ 12 cookie(s) extraído(s) do Firefox
+[2025-12-13 20:28:47] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-13 20:28:47] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-13 20:28:47] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 724335463
+[2025-12-13 20:28:47] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-13 20:28:48] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-13 20:28:49] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-14 14:44:35] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-14 14:44:35] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-14 14:44:38] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/4286507187/profile
+[2025-12-14 14:44:38] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/4286507187/profile
+[2025-12-14 14:44:48] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 4286507187
+[2025-12-14 14:44:48] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-14 14:44:48] INFO - core.browser: ✅ 13 cookie(s) extraído(s) do Firefox
+[2025-12-14 14:44:48] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-14 14:44:48] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-14 14:44:48] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-14 14:44:48] INFO - core.browser: ✅ 13 cookie(s) extraído(s) do Firefox
+[2025-12-14 14:44:48] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-14 14:44:48] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-14 14:44:48] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 4286507187
+[2025-12-14 14:44:48] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-14 14:44:48] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-14 14:44:49] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-14 14:45:47] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-14 14:45:47] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-14 14:45:49] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/10139311194/profile
+[2025-12-14 14:45:49] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/10139311194/profile
+[2025-12-14 14:45:59] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10139311194
+[2025-12-14 14:45:59] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-14 14:45:59] INFO - core.browser: ✅ 14 cookie(s) extraído(s) do Firefox
+[2025-12-14 14:45:59] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-14 14:45:59] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-14 14:45:59] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-14 14:45:59] INFO - core.browser: ✅ 14 cookie(s) extraído(s) do Firefox
+[2025-12-14 14:45:59] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-14 14:45:59] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-14 14:45:59] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10139311194
+[2025-12-14 14:45:59] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-14 14:45:59] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-14 14:46:00] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-14 15:23:55] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-14 15:23:55] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-14 15:24:06] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/9599769755/profile
+[2025-12-14 15:24:06] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/9599769755/profile
+[2025-12-14 15:24:16] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9599769755
+[2025-12-14 15:24:16] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-14 15:24:16] INFO - core.browser: ✅ 14 cookie(s) extraído(s) do Firefox
+[2025-12-14 15:24:16] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-14 15:24:16] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-14 15:24:16] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-14 15:24:16] INFO - core.browser: ✅ 14 cookie(s) extraído(s) do Firefox
+[2025-12-14 15:24:16] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-14 15:24:16] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-14 15:24:16] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 9599769755
+[2025-12-14 15:24:16] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-14 15:24:17] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-14 15:24:18] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-18 17:33:50] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-18 17:33:50] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-18 17:34:01] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/2780216744/profile
+[2025-12-18 17:34:01] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/pt/users/2780216744/profile
+[2025-12-18 17:34:12] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 2780216744
+[2025-12-18 17:34:12] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-18 17:34:12] INFO - core.browser: ✅ 13 cookie(s) extraído(s) do Firefox
+[2025-12-18 17:34:12] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-18 17:34:12] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-18 17:34:12] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-18 17:34:12] INFO - core.browser: ✅ 13 cookie(s) extraído(s) do Firefox
+[2025-12-18 17:34:12] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-18 17:34:12] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-18 17:34:12] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 2780216744
+[2025-12-18 17:34:12] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-18 17:34:12] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-18 17:34:13] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-18 18:41:26] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-18 18:41:26] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-18 18:41:30] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/users/3385940668/profile
+[2025-12-18 18:41:30] INFO - core.cookie_extractor: 🌐 Abrindo perfil no Firefox: https://www.roblox.com/users/3385940668/profile
+[2025-12-18 18:41:40] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 3385940668
+[2025-12-18 18:41:40] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-18 18:41:40] INFO - core.browser: ✅ 13 cookie(s) extraído(s) do Firefox
+[2025-12-18 18:41:40] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-18 18:41:40] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-18 18:41:40] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no Firefox...
+[2025-12-18 18:41:40] INFO - core.browser: ✅ 13 cookie(s) extraído(s) do Firefox
+[2025-12-18 18:41:40] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-18 18:41:40] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-18 18:41:40] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 3385940668
+[2025-12-18 18:41:40] INFO - core.cookie_extractor: ✅ Cookie salvo em: D:\Discord Bot\CookieGet\data\roblox_cookies.json
+[2025-12-18 18:41:40] INFO - core.browser: 📑 Fechando aba atual...
+[2025-12-18 18:41:41] INFO - core.browser: ✅ Aba fechada com sucesso
+[2025-12-18 19:19:08] INFO - root: Aplicação iniciada
+[2025-12-18 19:19:17] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-18 19:19:17] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-18 19:19:48] INFO - core.cookie_extractor: ✅ URL aceita: https://www.roblox.com/pt/users/10160774173/profile
+[2025-12-18 19:19:48] INFO - core.cookie_extractor: 🌐 Abrindo perfil: https://www.roblox.com/pt/users/10160774173/profile
+[2025-12-18 19:19:48] INFO - core.browser: 🔗 Abrindo URL: https://www.roblox.com/pt/users/10160774173/profile
+[2025-12-18 19:20:00] INFO - core.cookie_extractor: ✅ Informações extraídas - User ID: 10160774173
+[2025-12-18 19:20:00] INFO - core.cookie_extractor: 🍪 Procurando cookie .ROBLOSECURITY no firefox...
+[2025-12-18 19:20:00] INFO - core.browser: ✅ 14 cookie(s) extraído(s) do Firefox
+[2025-12-18 19:20:00] INFO - core.browser: 🍪 Cookie encontrado: .ROBLOSECURITY
+[2025-12-18 19:20:00] INFO - core.cookie_extractor: ✅ Cookie .ROBLOSECURITY encontrado!
+[2025-12-18 19:20:09] INFO - utils.helpers: ✅ Copiado para clipboard
+[2025-12-18 19:21:16] INFO - core.cookie_extractor: ✅ Firefox selecionado
+[2025-12-18 19:21:16] INFO - core.browser: ✅ Firefox já está em execução
+[2025-12-18 19:21:16] INFO - core.browser: ✅ Perfil Firefox encontrado: C:\Users\maxwe\AppData\Roaming\Mozilla\Firefox\Profiles\asv7wudm.default-release
+[2025-12-18 19:21:16] INFO - core.browser: 🔗 Abrindo URL: https://www.roblox.com/
+[2025-12-18 19:21:39] INFO - core.cookie_extractor: ✅ Login com cookie realizado
+[2025-12-18 19:21:48] INFO - root: Aplicação encerrada
