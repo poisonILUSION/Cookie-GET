@@ -252,7 +252,7 @@ def logar_com_outro_cookie():
         
         if cookie_value and len(cookie_value) > 10:
             extrator = RobloxCookieExtractor(timeout=30)
-            print("\n🔐 Abrindo navegador para logar...")
+            print("\n🔐 Preparando login automático...")
             extrator.login_with_cookie(cookie_value)
         else:
             print_error("Cookie inválido!")

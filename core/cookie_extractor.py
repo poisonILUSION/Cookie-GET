@@ -243,31 +243,42 @@ class RobloxCookieExtractor:
         cookies_data = self._load_saved_cookies()
         return {username: data.get('cookie', '') for username, data in cookies_data.items()}
     
-    # --- ABRE URL COM COOKIE NO NAVEGADOR ---
+    # --- ABRE URL COM COOKIE NO NAVEGADOR (INJEÇÃO AUTOMÁTICA) ---
     def login_with_cookie(self, cookie_value: str) -> bool:
         try:
             # Seleciona navegador
             self.select_browser()
             self.start()
             
-            # Abre Roblox
+            # Abre Roblox com injeção de cookie
             roblox_url = "https://www.roblox.com/"
-            self.browser.open_url(roblox_url)
             
-            print("\n⏳ Navegador aberto. Para logar:")
-            print("1. Abra o Console (F12 ou Ctrl+Shift+I)")
-            print("2. Vá para a aba 'Application'")
-            print("3. Clique em 'Cookies' > 'https://www.roblox.com'")
-            print("4. Procure por '.ROBLOSECURITY' e edite com o novo valor")
-            print("5. Recarregue a página (F5)")
+            print("\n🔐 Injetando cookie automaticamente...")
+            print("⏳ Aguarde (3-5 segundos)...")
             
-            input("\n➤ Pressione ENTER após completar...")
-            
-            logger.info("✅ Login com cookie realizado")
-            return True
+            if self.browser.open_url_with_selenium(roblox_url, cookie_value):
+                print_success("Login automático realizado com sucesso!")
+                print_info("Você está logado no Roblox. O navegador permanecerá aberto.")
+                logger.info("✅ Login com cookie concluído")
+                return True
+            else:
+                print_error("Erro ao injetar cookie. Abrindo manualmente...")
+                self.browser.open_url(roblox_url)
+                
+                print("\n⏳ Navegador aberto. Para logar manualmente:")
+                print("1. Abra o Console (F12 ou Ctrl+Shift+I)")
+                print("2. Vá para a aba 'Application' ou 'Storage'")
+                print("3. Clique em 'Cookies' > 'https://www.roblox.com'")
+                print("4. Procure por '.ROBLOSECURITY' e edite com o novo valor")
+                print("5. Recarregue a página (F5)")
+                
+                input("\n➤ Pressione ENTER após completar...")
+                logger.info("✅ Login manual concluído")
+                return True
         
         except Exception as e:
             logger.error(f"❌ Erro ao fazer login: {e}")
+            print_error(f"Erro: {e}")
             return False
     
     # --- EXIBE COOKIES SALVOS ---

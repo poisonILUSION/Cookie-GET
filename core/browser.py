@@ -21,10 +21,12 @@ class BrowserManager:
         'opera': 'opera.exe'
     }
     
-    def __init__(self, timeout=30, browser_type='firefox'):
+    def __init__(self, timeout=30, browser_type='firefox', use_selenium=False):
         self.timeout = timeout
         self.browser_type = browser_type.lower()
         self.firefox_profile_path = None
+        self.use_selenium = use_selenium
+        self.driver = None
         self.profile_path = None
     
     # --- ENCONTRA O PERFIL DO FIREFOX NO WINDOWS ---
@@ -206,9 +208,109 @@ class BrowserManager:
             logger.error(f"❌ Erro ao abrir URL: {e}")
             return False
     
+    # --- ABRE URL COM SELENIUM E INJETA COOKIE ---
+    def open_url_with_selenium(self, url, cookie_value=None):
+        try:
+            from selenium import webdriver
+            from selenium.webdriver.common.by import By
+            from selenium.webdriver.support.ui import WebDriverWait
+            from selenium.webdriver.support import expected_conditions as EC
+            from webdriver_manager.chrome import ChromeDriverManager
+            from webdriver_manager.firefox import GeckoDriverManager
+            from webdriver_manager.microsoft import EdgeChromiumDriverManager
+            from selenium.webdriver.chrome.service import Service as ChromeService
+            from selenium.webdriver.firefox.service import Service as FirefoxService
+            from selenium.webdriver.edge.service import Service as EdgeService
+            
+            logger.info(f"🌐 Abrindo {self.browser_type} com Selenium...")
+            
+            # Configura opções do navegador
+            if self.browser_type == 'chrome':
+                options = webdriver.ChromeOptions()
+                options.add_argument('--no-sandbox')
+                options.add_argument('--disable-dev-shm-usage')
+                service = ChromeService(ChromeDriverManager().install())
+                self.driver = webdriver.Chrome(service=service, options=options)
+            
+            elif self.browser_type == 'firefox':
+                options = webdriver.FirefoxOptions()
+                service = FirefoxService(GeckoDriverManager().install())
+                self.driver = webdriver.Firefox(service=service, options=options)
+            
+            elif self.browser_type == 'edge':
+                options = webdriver.EdgeOptions()
+                service = EdgeService(EdgeChromiumDriverManager().install())
+                self.driver = webdriver.Edge(service=service, options=options)
+            
+            elif self.browser_type == 'opera':
+                options = webdriver.ChromeOptions()
+                options.binary_location = 'C:\\Program Files\\Opera\\opera.exe'
+                service = ChromeService(ChromeDriverManager().install())
+                self.driver = webdriver.Chrome(service=service, options=options)
+            
+            else:
+                logger.error(f"❌ Navegador não suportado: {self.browser_type}")
+                return False
+            
+            # Navega para a página
+            logger.info(f"🔗 Navegando para: {url}")
+            self.driver.get(url)
+            
+            # Espera a página carregar
+            time.sleep(3)
+            
+            # Injeta o cookie se fornecido
+            if cookie_value:
+                logger.info("🍪 Injetando cookie...")
+                
+                try:
+                    # Tenta adicionar o cookie
+                    self.driver.add_cookie({
+                        'name': '.ROBLOSECURITY',
+                        'value': cookie_value,
+                        'domain': '.roblox.com',
+                        'path': '/',
+                        'secure': True,
+                        'httpOnly': True,
+                        'sameSite': 'None'
+                    })
+                    logger.info("✅ Cookie injetado com sucesso!")
+                    
+                    # Recarrega a página para aplicar o cookie
+                    logger.info("🔄 Recarregando página...")
+                    self.driver.refresh()
+                    time.sleep(3)
+                    
+                except Exception as e:
+                    logger.warning(f"⚠️ Erro ao injetar cookie: {e}")
+                    logger.info("💡 Tente copiar manualmente pelo console (F12)")
+            
+            logger.info(f"✅ {self.browser_type.capitalize()} aberto com sucesso")
+            return True
+        
+        except ImportError as e:
+            logger.error(f"❌ Selenium não instalado: {e}")
+            logger.info("💡 Instale com: pip install selenium webdriver-manager")
+            return False
+        except Exception as e:
+            logger.error(f"❌ Erro ao abrir com Selenium: {e}")
+            return False
+    
+    # --- FECHA O DRIVER SELENIUM ---
+    def close_selenium(self):
+        try:
+            if self.driver:
+                self.driver.quit()
+                logger.info("✅ Navegador (Selenium) fechado")
+        except Exception as e:
+            logger.warning(f"⚠️ Erro ao fechar Selenium: {e}")
+    
     # --- FECHA O NAVEGADOR COMPLETAMENTE ---
     def close(self):
         try:
+            if self.driver:
+                self.close_selenium()
+            
             browser_exe = self.BROWSER_TYPES.get(self.browser_type, 'firefox.exe')
             subprocess.run(["taskkill", "/IM", browser_exe, "/F"], capture_output=True)
             logger.info(f"✅ {self.browser_type.capitalize()} fechado")
